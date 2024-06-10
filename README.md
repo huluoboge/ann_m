@@ -1,7 +1,9 @@
 # ann_m
-ANN: A Library for Approximate Nearest Neighbor Searching for multithreaded versions
+ANN: A Library for Approximate Nearest Neighbor Searching for multi-threaded version
 
 The original code is here: : https://www.cs.umd.edu/~mount/ANN/
+
+**The original version does not support multi-threaded searching, while this version supports multi-threaded searching.**
 
 ----
 ANN is a library written in C++, which supports data structures and algorithms for both exact and approximate nearest neighbor searching in arbitrarily high dimensions.
